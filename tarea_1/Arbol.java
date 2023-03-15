@@ -5,5 +5,10 @@ public class Arbol {
     }
     public Arbol(Object dato){
         raiz = new Nodo(dato);
+
+    }
+
+    public void imprimir(){
+        
     }
 }
